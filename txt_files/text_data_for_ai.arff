@@ -1,0 +1,7 @@
+@relation TEXT_FILE_DATA
+@attribute Title string
+@attribute DATE date dd-mm-yy
+@attribute Time string
+
+@data
+'*IDLE Shell 3.11.4*', 19-02-24, 00:11

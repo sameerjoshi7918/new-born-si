@@ -1,0 +1,7 @@
+@relation Title_Data
+@attribute Title string
+@attribute Date date dd-mm-yy
+@attribute Time string
+
+@data
+
